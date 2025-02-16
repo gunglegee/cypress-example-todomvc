@@ -19,11 +19,7 @@ The steps below will take you all the way through Cypress. It is assumed you hav
 * [Cypress Docs](https://on.cypress.io)
 * [Cypress CLI Tool Docs](https://github.com/cypress-io/cypress-cli)
 
-### 1. Install Cypress
-
-[Follow these instructions to install Cypress.](https://on.cypress.io/guides/installing-and-running#section-installing)
-
-### 2. Fork this repo
+### 1. Fork this repo
 
 If you want to experiment with running this project in Continous Integration, you'll need to [fork](https://github.com/cypress-io/cypress-example-todomvc#fork-destination-box) it first.
 
@@ -49,7 +45,7 @@ You can verify this by opening your browser and navigating to: [`http://localhos
 
 You should see the TodoMVC app up and running. We are now ready to run Cypress tests.
 
-### 3. Add the project to Cypress
+### 2. Add Cypress to the project
 
 [Follow these instructions to add the project to Cypress.](https://on.cypress.io/guides/getting-started/installing-cypress#Installing)
 
